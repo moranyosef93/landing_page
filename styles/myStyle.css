@@ -1,0 +1,123 @@
+body 
+{
+    direction:rtl; 
+ 
+}
+
+#container{
+    width:960px;
+    margin:auto;
+}
+
+form{
+    margin: 30px 25px 0 0;
+    font-size:11px;
+}
+
+label{
+     display:block;
+     margin-top:10px;
+     color:white;
+     
+}
+
+
+
+input[type ='submit']{
+    margin:10px 0 0 0;
+    cursor:pointer;
+
+
+}
+
+#FirstName{
+    border: 1px solid white;
+    margin-top:10px;
+    width:120px;
+}
+
+#LastName{
+    border: 1px solid white;
+    margin-top:10px;
+    width:120px;
+}
+
+#myphone{
+    border: 1px solid white;
+    margin-top:10px;
+    width:120px;
+}
+
+#myemail{
+    border: 1px solid white;
+    margin-top:10px;
+    width:150px;
+}
+
+
+#feedback{
+    font-size:9px;
+    color:mistyrose;
+    margin: 2px 3px 0 0 ;
+
+}
+
+
+
+
+
+#tzor_kesher{
+    font-size: 12px;
+    color:white;
+    margin:-625px 20px 0 0 ;
+    padding-left:770PX;
+
+}
+
+ #hit{ 
+      padding:50px 300px 0 0 ;
+      margin:210px -80px 0 0;
+  }
+
+
+#hit:hover img {
+    -webkit-transform: scale(0.85);
+    -moz-transform: scale(0.85);
+    -ms-transform: scale(0.85);
+    -o-transform: scale(0.85);
+    transform: scale(0.85);
+    -webkit-transition-duration: 0.3s; 
+    transition-duration: 0.3s;
+}
+
+ #facebook{ 
+      padding:50px 300px 0 0 ;
+      margin:-98px 157px 0 0;
+  }
+
+
+#facebook:hover img {
+    -webkit-transform: scale(0.85);
+    -moz-transform: scale(0.85);
+    -ms-transform: scale(0.85);
+    -o-transform: scale(0.85);
+    transform: scale(0.85);
+    -webkit-transition-duration: 0.3s; 
+    transition-duration: 0.3s;
+}
+
+ #youtube{ 
+      padding:50px 300px 0 0 ;
+      margin:-101px 400px 0 0;
+  }
+
+
+#youtube:hover img {
+    -webkit-transform: scale(0.85);
+    -moz-transform: scale(0.85);
+    -ms-transform: scale(0.85);
+    -o-transform: scale(0.85);
+    transform: scale(0.85);
+    -webkit-transition-duration: 0.3s; 
+    transition-duration: 0.3s;
+}
